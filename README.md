@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alebarbosa20.
+- 👀 I'm a student at Universidad Tecnológica de Durango.
+- 🌱 I’m still learning everything about programming, software development and technologies.
